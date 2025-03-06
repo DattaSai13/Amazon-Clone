@@ -1,4 +1,4 @@
-Amazon Template using HTML, CSS, and Bootstrap
+#Amazon Template using HTML, CSS, and Bootstrap
 
 Project Overview
 
